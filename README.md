@@ -1,6 +1,6 @@
 # Block Clover M Party Recommender v0.1
 
-This [spreadsheet](https://docs.google.com/spreadsheets/d/1FkkknY0-op5lNB-64gAPTzTIih3bbysn3BOFOsDT584/edit#gid=0) generates
+This [spreadsheet](https://docs.google.com/spreadsheets/d/1FkkknY0-op5lNB-64gAPTzTIih3bbysn3BOFOsDT584/edit#gid=1573114232) generates
 party recommedations based on the characters you have in your inventory, using the data from
 [Prydwen Institute](https://www.prydwen.gg/)'s [Black Clover M Tier List](https://www.prydwen.gg/black-clover/tier-list/).
 
